@@ -20,11 +20,13 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/MansiTechie/DSA_Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/MansiTechie/DSA_Problems/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/MansiTechie/DSA_Problems/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/MansiTechie/DSA_Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/MansiTechie/DSA_Problems/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/MansiTechie/DSA_Problems/tree/master/0739-daily-temperatures) |
 ## Range Minimum/Maximum Query
 |  |
@@ -42,9 +44,14 @@
 ## String
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/MansiTechie/DSA_Problems/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/MansiTechie/DSA_Problems/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/MansiTechie/DSA_Problems/tree/master/0424-longest-repeating-character-replacement) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/MansiTechie/DSA_Problems/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
