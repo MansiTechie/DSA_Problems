@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MansiTechie/DSA_Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0078-subsets](https://github.com/MansiTechie/DSA_Problems/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MansiTechie/DSA_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/MansiTechie/DSA_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0739-daily-temperatures](https://github.com/MansiTechie/DSA_Problems/tree/master/0739-daily-temperatures) |
@@ -54,4 +55,12 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/MansiTechie/DSA_Problems/tree/master/0402-remove-k-digits) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/MansiTechie/DSA_Problems/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/MansiTechie/DSA_Problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
