@@ -63,4 +63,24 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/MansiTechie/DSA_Problems/tree/master/0078-subsets) |
+## Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/MansiTechie/DSA_Problems/tree/master/0207-course-schedule) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/MansiTechie/DSA_Problems/tree/master/0207-course-schedule) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/MansiTechie/DSA_Problems/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/MansiTechie/DSA_Problems/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/MansiTechie/DSA_Problems/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
