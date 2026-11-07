@@ -10,11 +10,13 @@
 | [0128-longest-consecutive-sequence](https://github.com/MansiTechie/DSA_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/MansiTechie/DSA_Problems/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MansiTechie/DSA_Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/MansiTechie/DSA_Problems/tree/master/0268-missing-number) |
 | [0739-daily-temperatures](https://github.com/MansiTechie/DSA_Problems/tree/master/0739-daily-temperatures) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MansiTechie/DSA_Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/MansiTechie/DSA_Problems/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -41,6 +43,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/MansiTechie/DSA_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/MansiTechie/DSA_Problems/tree/master/0146-lru-cache) |
+| [0268-missing-number](https://github.com/MansiTechie/DSA_Problems/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/MansiTechie/DSA_Problems/tree/master/0424-longest-repeating-character-replacement) |
 ## Union-Find
 |  |
@@ -68,6 +71,7 @@
 | ------- |
 | [0078-subsets](https://github.com/MansiTechie/DSA_Problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/MansiTechie/DSA_Problems/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/MansiTechie/DSA_Problems/tree/master/0268-missing-number) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -104,6 +108,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/MansiTechie/DSA_Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/MansiTechie/DSA_Problems/tree/master/0268-missing-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -112,4 +117,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/MansiTechie/DSA_Problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/MansiTechie/DSA_Problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
