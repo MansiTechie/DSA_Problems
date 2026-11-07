@@ -8,6 +8,7 @@
 | [0078-subsets](https://github.com/MansiTechie/DSA_Problems/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MansiTechie/DSA_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/MansiTechie/DSA_Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/MansiTechie/DSA_Problems/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MansiTechie/DSA_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0739-daily-temperatures](https://github.com/MansiTechie/DSA_Problems/tree/master/0739-daily-temperatures) |
 ## Binary Search
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/MansiTechie/DSA_Problems/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/MansiTechie/DSA_Problems/tree/master/0136-single-number) |
 ## Depth-First Search
 |  |
 | ------- |
