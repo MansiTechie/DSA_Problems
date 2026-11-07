@@ -12,6 +12,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/MansiTechie/DSA_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/MansiTechie/DSA_Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/MansiTechie/DSA_Problems/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/MansiTechie/DSA_Problems/tree/master/0283-move-zeroes) |
 | [0739-daily-temperatures](https://github.com/MansiTechie/DSA_Problems/tree/master/0739-daily-temperatures) |
 ## Binary Search
 |  |
@@ -132,4 +133,5 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/MansiTechie/DSA_Problems/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/MansiTechie/DSA_Problems/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
