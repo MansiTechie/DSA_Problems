@@ -52,6 +52,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/MansiTechie/DSA_Problems/tree/master/0125-valid-palindrome) |
 | [0402-remove-k-digits](https://github.com/MansiTechie/DSA_Problems/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/MansiTechie/DSA_Problems/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
@@ -121,4 +122,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/MansiTechie/DSA_Problems/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/MansiTechie/DSA_Problems/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
