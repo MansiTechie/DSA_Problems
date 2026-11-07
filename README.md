@@ -10,6 +10,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/MansiTechie/DSA_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/MansiTechie/DSA_Problems/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MansiTechie/DSA_Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/MansiTechie/DSA_Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/MansiTechie/DSA_Problems/tree/master/0268-missing-number) |
 | [0739-daily-temperatures](https://github.com/MansiTechie/DSA_Problems/tree/master/0739-daily-temperatures) |
 ## Binary Search
@@ -43,6 +44,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/MansiTechie/DSA_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/MansiTechie/DSA_Problems/tree/master/0146-lru-cache) |
+| [0217-contains-duplicate](https://github.com/MansiTechie/DSA_Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/MansiTechie/DSA_Problems/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/MansiTechie/DSA_Problems/tree/master/0424-longest-repeating-character-replacement) |
 ## Union-Find
@@ -109,6 +111,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/MansiTechie/DSA_Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/MansiTechie/DSA_Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/MansiTechie/DSA_Problems/tree/master/0268-missing-number) |
 ## Heap (Priority Queue)
 |  |
