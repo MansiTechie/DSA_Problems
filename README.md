@@ -11,6 +11,7 @@
 | [0136-single-number](https://github.com/MansiTechie/DSA_Problems/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MansiTechie/DSA_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/MansiTechie/DSA_Problems/tree/master/0217-contains-duplicate) |
+| [0239-sliding-window-maximum](https://github.com/MansiTechie/DSA_Problems/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/MansiTechie/DSA_Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MansiTechie/DSA_Problems/tree/master/0283-move-zeroes) |
 | [0739-daily-temperatures](https://github.com/MansiTechie/DSA_Problems/tree/master/0739-daily-temperatures) |
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/MansiTechie/DSA_Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/MansiTechie/DSA_Problems/tree/master/0239-sliding-window-maximum) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +67,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/MansiTechie/DSA_Problems/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/MansiTechie/DSA_Problems/tree/master/0424-longest-repeating-character-replacement) |
 ## Greedy
 |  |
@@ -125,6 +128,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/MansiTechie/DSA_Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/MansiTechie/DSA_Problems/tree/master/0239-sliding-window-maximum) |
 ## Quickselect
 |  |
 | ------- |
@@ -138,4 +142,12 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/MansiTechie/DSA_Problems/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/MansiTechie/DSA_Problems/tree/master/0283-move-zeroes) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/MansiTechie/DSA_Problems/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/MansiTechie/DSA_Problems/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
