@@ -6,6 +6,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MansiTechie/DSA_Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MansiTechie/DSA_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0073-set-matrix-zeroes](https://github.com/MansiTechie/DSA_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/MansiTechie/DSA_Problems/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MansiTechie/DSA_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/MansiTechie/DSA_Problems/tree/master/0128-longest-consecutive-sequence) |
@@ -48,6 +49,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/MansiTechie/DSA_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/MansiTechie/DSA_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/MansiTechie/DSA_Problems/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/MansiTechie/DSA_Problems/tree/master/0217-contains-duplicate) |
@@ -160,4 +162,8 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/MansiTechie/DSA_Problems/tree/master/0295-find-median-from-data-stream) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/MansiTechie/DSA_Problems/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
