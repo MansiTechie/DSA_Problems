@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/MansiTechie/DSA_Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/MansiTechie/DSA_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0402-remove-k-digits](https://github.com/MansiTechie/DSA_Problems/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/MansiTechie/DSA_Problems/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
@@ -94,6 +95,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/MansiTechie/DSA_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0207-course-schedule](https://github.com/MansiTechie/DSA_Problems/tree/master/0207-course-schedule) |
 ## Breadth-First Search
 |  |
@@ -172,4 +174,12 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/MansiTechie/DSA_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/MansiTechie/DSA_Problems/tree/master/0074-search-a-2d-matrix) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/MansiTechie/DSA_Problems/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/MansiTechie/DSA_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
