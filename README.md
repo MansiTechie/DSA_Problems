@@ -99,6 +99,7 @@
 | [0100-same-tree](https://github.com/MansiTechie/DSA_Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/MansiTechie/DSA_Problems/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MansiTechie/DSA_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/MansiTechie/DSA_Problems/tree/master/0110-balanced-binary-tree) |
 | [0207-course-schedule](https://github.com/MansiTechie/DSA_Problems/tree/master/0207-course-schedule) |
 ## Breadth-First Search
 |  |
@@ -189,6 +190,7 @@
 | [0101-symmetric-tree](https://github.com/MansiTechie/DSA_Problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/MansiTechie/DSA_Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MansiTechie/DSA_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/MansiTechie/DSA_Problems/tree/master/0110-balanced-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -197,4 +199,5 @@
 | [0101-symmetric-tree](https://github.com/MansiTechie/DSA_Problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/MansiTechie/DSA_Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MansiTechie/DSA_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/MansiTechie/DSA_Problems/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
