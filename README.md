@@ -16,6 +16,7 @@
 | [0136-single-number](https://github.com/MansiTechie/DSA_Problems/tree/master/0136-single-number) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/MansiTechie/DSA_Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/MansiTechie/DSA_Problems/tree/master/0164-maximum-gap) |
+| [0174-dungeon-game](https://github.com/MansiTechie/DSA_Problems/tree/master/0174-dungeon-game) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MansiTechie/DSA_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/MansiTechie/DSA_Problems/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/MansiTechie/DSA_Problems/tree/master/0239-sliding-window-maximum) |
@@ -191,6 +192,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/MansiTechie/DSA_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/MansiTechie/DSA_Problems/tree/master/0074-search-a-2d-matrix) |
+| [0174-dungeon-game](https://github.com/MansiTechie/DSA_Problems/tree/master/0174-dungeon-game) |
 ## Tree
 |  |
 | ------- |
@@ -217,6 +219,7 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MansiTechie/DSA_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0174-dungeon-game](https://github.com/MansiTechie/DSA_Problems/tree/master/0174-dungeon-game) |
 ## DP on Trees
 |  |
 | ------- |
