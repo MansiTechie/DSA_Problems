@@ -12,6 +12,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/MansiTechie/DSA_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/MansiTechie/DSA_Problems/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/MansiTechie/DSA_Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/MansiTechie/DSA_Problems/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/MansiTechie/DSA_Problems/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MansiTechie/DSA_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/MansiTechie/DSA_Problems/tree/master/0217-contains-duplicate) |
@@ -79,6 +80,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/MansiTechie/DSA_Problems/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/MansiTechie/DSA_Problems/tree/master/0402-remove-k-digits) |
 ## Backtracking
 |  |
