@@ -15,6 +15,7 @@
 | [0135-candy](https://github.com/MansiTechie/DSA_Problems/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/MansiTechie/DSA_Problems/tree/master/0136-single-number) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/MansiTechie/DSA_Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0164-maximum-gap](https://github.com/MansiTechie/DSA_Problems/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MansiTechie/DSA_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/MansiTechie/DSA_Problems/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/MansiTechie/DSA_Problems/tree/master/0239-sliding-window-maximum) |
@@ -145,6 +146,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/MansiTechie/DSA_Problems/tree/master/0088-merge-sorted-array) |
+| [0164-maximum-gap](https://github.com/MansiTechie/DSA_Problems/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MansiTechie/DSA_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/MansiTechie/DSA_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MansiTechie/DSA_Problems/tree/master/0242-valid-anagram) |
@@ -219,4 +221,16 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MansiTechie/DSA_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/MansiTechie/DSA_Problems/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/MansiTechie/DSA_Problems/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/MansiTechie/DSA_Problems/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
