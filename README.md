@@ -138,6 +138,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/MansiTechie/DSA_Problems/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/MansiTechie/DSA_Problems/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/MansiTechie/DSA_Problems/tree/master/0206-reverse-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -250,4 +251,5 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/MansiTechie/DSA_Problems/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/MansiTechie/DSA_Problems/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
