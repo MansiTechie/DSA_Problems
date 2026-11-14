@@ -135,6 +135,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/MansiTechie/DSA_Problems/tree/master/0146-lru-cache) |
+| [0203-remove-linked-list-elements](https://github.com/MansiTechie/DSA_Problems/tree/master/0203-remove-linked-list-elements) |
 ## Design
 |  |
 | ------- |
@@ -243,4 +244,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/MansiTechie/DSA_Problems/tree/master/0202-happy-number) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/MansiTechie/DSA_Problems/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
