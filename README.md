@@ -80,6 +80,7 @@
 | [0205-isomorphic-strings](https://github.com/MansiTechie/DSA_Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/MansiTechie/DSA_Problems/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/MansiTechie/DSA_Problems/tree/master/0273-integer-to-english-words) |
+| [0301-remove-invalid-parentheses](https://github.com/MansiTechie/DSA_Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0402-remove-k-digits](https://github.com/MansiTechie/DSA_Problems/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/MansiTechie/DSA_Problems/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
@@ -97,6 +98,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/MansiTechie/DSA_Problems/tree/master/0078-subsets) |
+| [0301-remove-invalid-parentheses](https://github.com/MansiTechie/DSA_Problems/tree/master/0301-remove-invalid-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -125,6 +127,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/MansiTechie/DSA_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/MansiTechie/DSA_Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/MansiTechie/DSA_Problems/tree/master/0207-course-schedule) |
+| [0301-remove-invalid-parentheses](https://github.com/MansiTechie/DSA_Problems/tree/master/0301-remove-invalid-parentheses) |
 ## Graph Theory
 |  |
 | ------- |
