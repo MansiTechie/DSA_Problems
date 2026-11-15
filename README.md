@@ -108,6 +108,7 @@
 | [0190-reverse-bits](https://github.com/MansiTechie/DSA_Problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/MansiTechie/DSA_Problems/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/MansiTechie/DSA_Problems/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/MansiTechie/DSA_Problems/tree/master/0338-counting-bits) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -237,6 +238,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/MansiTechie/DSA_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0174-dungeon-game](https://github.com/MansiTechie/DSA_Problems/tree/master/0174-dungeon-game) |
 | [0312-burst-balloons](https://github.com/MansiTechie/DSA_Problems/tree/master/0312-burst-balloons) |
+| [0338-counting-bits](https://github.com/MansiTechie/DSA_Problems/tree/master/0338-counting-bits) |
 ## DP on Trees
 |  |
 | ------- |
