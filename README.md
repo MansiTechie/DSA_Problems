@@ -23,6 +23,7 @@
 | [0239-sliding-window-maximum](https://github.com/MansiTechie/DSA_Problems/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/MansiTechie/DSA_Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MansiTechie/DSA_Problems/tree/master/0283-move-zeroes) |
+| [0312-burst-balloons](https://github.com/MansiTechie/DSA_Problems/tree/master/0312-burst-balloons) |
 | [0739-daily-temperatures](https://github.com/MansiTechie/DSA_Problems/tree/master/0739-daily-temperatures) |
 ## Binary Search
 |  |
@@ -235,6 +236,7 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MansiTechie/DSA_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0174-dungeon-game](https://github.com/MansiTechie/DSA_Problems/tree/master/0174-dungeon-game) |
+| [0312-burst-balloons](https://github.com/MansiTechie/DSA_Problems/tree/master/0312-burst-balloons) |
 ## DP on Trees
 |  |
 | ------- |
