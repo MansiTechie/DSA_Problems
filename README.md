@@ -79,6 +79,7 @@
 | [0125-valid-palindrome](https://github.com/MansiTechie/DSA_Problems/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/MansiTechie/DSA_Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/MansiTechie/DSA_Problems/tree/master/0242-valid-anagram) |
+| [0273-integer-to-english-words](https://github.com/MansiTechie/DSA_Problems/tree/master/0273-integer-to-english-words) |
 | [0402-remove-k-digits](https://github.com/MansiTechie/DSA_Problems/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/MansiTechie/DSA_Problems/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
@@ -176,6 +177,7 @@
 | ------- |
 | [0202-happy-number](https://github.com/MansiTechie/DSA_Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/MansiTechie/DSA_Problems/tree/master/0268-missing-number) |
+| [0273-integer-to-english-words](https://github.com/MansiTechie/DSA_Problems/tree/master/0273-integer-to-english-words) |
 ## Two Pointers
 |  |
 | ------- |
@@ -255,4 +257,5 @@
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/MansiTechie/DSA_Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/MansiTechie/DSA_Problems/tree/master/0206-reverse-linked-list) |
+| [0273-integer-to-english-words](https://github.com/MansiTechie/DSA_Problems/tree/master/0273-integer-to-english-words) |
 <!---LeetCode Topics End-->
