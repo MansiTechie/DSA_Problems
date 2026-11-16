@@ -25,6 +25,7 @@
 | [0283-move-zeroes](https://github.com/MansiTechie/DSA_Problems/tree/master/0283-move-zeroes) |
 | [0312-burst-balloons](https://github.com/MansiTechie/DSA_Problems/tree/master/0312-burst-balloons) |
 | [0349-intersection-of-two-arrays](https://github.com/MansiTechie/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0354-russian-doll-envelopes](https://github.com/MansiTechie/DSA_Problems/tree/master/0354-russian-doll-envelopes) |
 | [0739-daily-temperatures](https://github.com/MansiTechie/DSA_Problems/tree/master/0739-daily-temperatures) |
 ## Binary Search
 |  |
@@ -34,6 +35,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/MansiTechie/DSA_Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/MansiTechie/DSA_Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MansiTechie/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0354-russian-doll-envelopes](https://github.com/MansiTechie/DSA_Problems/tree/master/0354-russian-doll-envelopes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -171,6 +173,7 @@
 | [0268-missing-number](https://github.com/MansiTechie/DSA_Problems/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/MansiTechie/DSA_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/MansiTechie/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0354-russian-doll-envelopes](https://github.com/MansiTechie/DSA_Problems/tree/master/0354-russian-doll-envelopes) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -244,6 +247,7 @@
 | [0174-dungeon-game](https://github.com/MansiTechie/DSA_Problems/tree/master/0174-dungeon-game) |
 | [0312-burst-balloons](https://github.com/MansiTechie/DSA_Problems/tree/master/0312-burst-balloons) |
 | [0338-counting-bits](https://github.com/MansiTechie/DSA_Problems/tree/master/0338-counting-bits) |
+| [0354-russian-doll-envelopes](https://github.com/MansiTechie/DSA_Problems/tree/master/0354-russian-doll-envelopes) |
 ## DP on Trees
 |  |
 | ------- |
@@ -270,4 +274,8 @@
 | [0203-remove-linked-list-elements](https://github.com/MansiTechie/DSA_Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/MansiTechie/DSA_Problems/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/MansiTechie/DSA_Problems/tree/master/0273-integer-to-english-words) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0354-russian-doll-envelopes](https://github.com/MansiTechie/DSA_Problems/tree/master/0354-russian-doll-envelopes) |
 <!---LeetCode Topics End-->
