@@ -23,6 +23,7 @@
 | [0239-sliding-window-maximum](https://github.com/MansiTechie/DSA_Problems/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/MansiTechie/DSA_Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MansiTechie/DSA_Problems/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/MansiTechie/DSA_Problems/tree/master/0303-range-sum-query-immutable) |
 | [0312-burst-balloons](https://github.com/MansiTechie/DSA_Problems/tree/master/0312-burst-balloons) |
 | [0349-intersection-of-two-arrays](https://github.com/MansiTechie/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/MansiTechie/DSA_Problems/tree/master/0354-russian-doll-envelopes) |
@@ -161,6 +162,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/MansiTechie/DSA_Problems/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/MansiTechie/DSA_Problems/tree/master/0295-find-median-from-data-stream) |
+| [0303-range-sum-query-immutable](https://github.com/MansiTechie/DSA_Problems/tree/master/0303-range-sum-query-immutable) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -315,4 +317,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/MansiTechie/DSA_Problems/tree/master/0292-nim-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/MansiTechie/DSA_Problems/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
