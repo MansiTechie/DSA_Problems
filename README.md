@@ -195,6 +195,7 @@
 | [0263-ugly-number](https://github.com/MansiTechie/DSA_Problems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/MansiTechie/DSA_Problems/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/MansiTechie/DSA_Problems/tree/master/0273-integer-to-english-words) |
+| [0292-nim-game](https://github.com/MansiTechie/DSA_Problems/tree/master/0292-nim-game) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/MansiTechie/DSA_Problems/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 ## Two Pointers
 |  |
@@ -294,4 +295,24 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/MansiTechie/DSA_Problems/tree/master/0258-add-digits) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/MansiTechie/DSA_Problems/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/MansiTechie/DSA_Problems/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/MansiTechie/DSA_Problems/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/MansiTechie/DSA_Problems/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/MansiTechie/DSA_Problems/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
