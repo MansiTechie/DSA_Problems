@@ -77,6 +77,7 @@
 | [0242-valid-anagram](https://github.com/MansiTechie/DSA_Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MansiTechie/DSA_Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MansiTechie/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/MansiTechie/DSA_Problems/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/MansiTechie/DSA_Problems/tree/master/0424-longest-repeating-character-replacement) |
 ## Union-Find
 |  |
@@ -90,6 +91,7 @@
 | [0242-valid-anagram](https://github.com/MansiTechie/DSA_Problems/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/MansiTechie/DSA_Problems/tree/master/0273-integer-to-english-words) |
 | [0301-remove-invalid-parentheses](https://github.com/MansiTechie/DSA_Problems/tree/master/0301-remove-invalid-parentheses) |
+| [0383-ransom-note](https://github.com/MansiTechie/DSA_Problems/tree/master/0383-ransom-note) |
 | [0402-remove-k-digits](https://github.com/MansiTechie/DSA_Problems/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/MansiTechie/DSA_Problems/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
@@ -323,4 +325,8 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/MansiTechie/DSA_Problems/tree/master/0303-range-sum-query-immutable) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/MansiTechie/DSA_Problems/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
