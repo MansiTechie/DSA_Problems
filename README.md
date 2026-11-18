@@ -131,6 +131,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/MansiTechie/DSA_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0207-course-schedule](https://github.com/MansiTechie/DSA_Problems/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/MansiTechie/DSA_Problems/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/MansiTechie/DSA_Problems/tree/master/0404-sum-of-left-leaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -142,6 +143,7 @@
 | [0207-course-schedule](https://github.com/MansiTechie/DSA_Problems/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/MansiTechie/DSA_Problems/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/MansiTechie/DSA_Problems/tree/master/0301-remove-invalid-parentheses) |
+| [0404-sum-of-left-leaves](https://github.com/MansiTechie/DSA_Problems/tree/master/0404-sum-of-left-leaves) |
 ## Graph Theory
 |  |
 | ------- |
@@ -243,6 +245,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/MansiTechie/DSA_Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MansiTechie/DSA_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/MansiTechie/DSA_Problems/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/MansiTechie/DSA_Problems/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -255,6 +258,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/MansiTechie/DSA_Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MansiTechie/DSA_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/MansiTechie/DSA_Problems/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/MansiTechie/DSA_Problems/tree/master/0404-sum-of-left-leaves) |
 ## Dynamic Programming
 |  |
 | ------- |
