@@ -30,6 +30,7 @@
 | [0739-daily-temperatures](https://github.com/MansiTechie/DSA_Problems/tree/master/0739-daily-temperatures) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/MansiTechie/DSA_Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/MansiTechie/DSA_Problems/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/MansiTechie/DSA_Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/MansiTechie/DSA_Problems/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/MansiTechie/DSA_Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/MansiTechie/DSA_Problems/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/MansiTechie/DSA_Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Divide and Conquer
 |  |
 | ------- |
