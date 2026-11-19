@@ -28,6 +28,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/MansiTechie/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/MansiTechie/DSA_Problems/tree/master/0354-russian-doll-envelopes) |
 | [0739-daily-temperatures](https://github.com/MansiTechie/DSA_Problems/tree/master/0739-daily-temperatures) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/MansiTechie/DSA_Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [0354-russian-doll-envelopes](https://github.com/MansiTechie/DSA_Problems/tree/master/0354-russian-doll-envelopes) |
 | [0367-valid-perfect-square](https://github.com/MansiTechie/DSA_Problems/tree/master/0367-valid-perfect-square) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/MansiTechie/DSA_Problems/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/MansiTechie/DSA_Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -102,6 +104,7 @@
 | [0219-contains-duplicate-ii](https://github.com/MansiTechie/DSA_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/MansiTechie/DSA_Problems/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/MansiTechie/DSA_Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/MansiTechie/DSA_Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Greedy
 |  |
 | ------- |
@@ -193,6 +196,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/MansiTechie/DSA_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/MansiTechie/DSA_Problems/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/MansiTechie/DSA_Problems/tree/master/0295-find-median-from-data-stream) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/MansiTechie/DSA_Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Quickselect
 |  |
 | ------- |
@@ -222,10 +226,12 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/MansiTechie/DSA_Problems/tree/master/0239-sliding-window-maximum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/MansiTechie/DSA_Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/MansiTechie/DSA_Problems/tree/master/0239-sliding-window-maximum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/MansiTechie/DSA_Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Data Stream
 |  |
 | ------- |
@@ -332,6 +338,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/MansiTechie/DSA_Problems/tree/master/0303-range-sum-query-immutable) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/MansiTechie/DSA_Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Counting
 |  |
 | ------- |
