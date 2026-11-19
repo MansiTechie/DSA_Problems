@@ -29,6 +29,7 @@
 | [0354-russian-doll-envelopes](https://github.com/MansiTechie/DSA_Problems/tree/master/0354-russian-doll-envelopes) |
 | [0739-daily-temperatures](https://github.com/MansiTechie/DSA_Problems/tree/master/0739-daily-temperatures) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/MansiTechie/DSA_Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0875-koko-eating-bananas](https://github.com/MansiTechie/DSA_Problems/tree/master/0875-koko-eating-bananas) |
 ## Binary Search
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [0367-valid-perfect-square](https://github.com/MansiTechie/DSA_Problems/tree/master/0367-valid-perfect-square) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/MansiTechie/DSA_Problems/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/MansiTechie/DSA_Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0875-koko-eating-bananas](https://github.com/MansiTechie/DSA_Problems/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
 | ------- |
