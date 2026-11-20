@@ -42,6 +42,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/MansiTechie/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/MansiTechie/DSA_Problems/tree/master/0354-russian-doll-envelopes) |
 | [0367-valid-perfect-square](https://github.com/MansiTechie/DSA_Problems/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/MansiTechie/DSA_Problems/tree/master/0441-arranging-coins) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/MansiTechie/DSA_Problems/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/MansiTechie/DSA_Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/MansiTechie/DSA_Problems/tree/master/0875-koko-eating-bananas) |
@@ -222,6 +223,7 @@
 | [0367-valid-perfect-square](https://github.com/MansiTechie/DSA_Problems/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/MansiTechie/DSA_Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/MansiTechie/DSA_Problems/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/MansiTechie/DSA_Problems/tree/master/0441-arranging-coins) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/MansiTechie/DSA_Problems/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 ## Two Pointers
 |  |
