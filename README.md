@@ -102,6 +102,7 @@
 | [0383-ransom-note](https://github.com/MansiTechie/DSA_Problems/tree/master/0383-ransom-note) |
 | [0402-remove-k-digits](https://github.com/MansiTechie/DSA_Problems/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/MansiTechie/DSA_Problems/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/MansiTechie/DSA_Problems/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/MansiTechie/DSA_Problems/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
@@ -218,6 +219,7 @@
 | [0273-integer-to-english-words](https://github.com/MansiTechie/DSA_Problems/tree/master/0273-integer-to-english-words) |
 | [0292-nim-game](https://github.com/MansiTechie/DSA_Problems/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/MansiTechie/DSA_Problems/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/MansiTechie/DSA_Problems/tree/master/0412-fizz-buzz) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/MansiTechie/DSA_Problems/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 ## Two Pointers
 |  |
@@ -318,6 +320,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/MansiTechie/DSA_Problems/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/MansiTechie/DSA_Problems/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
