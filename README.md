@@ -27,6 +27,7 @@
 | [0312-burst-balloons](https://github.com/MansiTechie/DSA_Problems/tree/master/0312-burst-balloons) |
 | [0349-intersection-of-two-arrays](https://github.com/MansiTechie/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/MansiTechie/DSA_Problems/tree/master/0354-russian-doll-envelopes) |
+| [0455-assign-cookies](https://github.com/MansiTechie/DSA_Problems/tree/master/0455-assign-cookies) |
 | [0739-daily-temperatures](https://github.com/MansiTechie/DSA_Problems/tree/master/0739-daily-temperatures) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/MansiTechie/DSA_Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/MansiTechie/DSA_Problems/tree/master/0875-koko-eating-bananas) |
@@ -119,6 +120,7 @@
 | [0135-candy](https://github.com/MansiTechie/DSA_Problems/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/MansiTechie/DSA_Problems/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/MansiTechie/DSA_Problems/tree/master/0409-longest-palindrome) |
+| [0455-assign-cookies](https://github.com/MansiTechie/DSA_Problems/tree/master/0455-assign-cookies) |
 | [1402-reducing-dishes](https://github.com/MansiTechie/DSA_Problems/tree/master/1402-reducing-dishes) |
 ## Backtracking
 |  |
@@ -199,6 +201,7 @@
 | [0295-find-median-from-data-stream](https://github.com/MansiTechie/DSA_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/MansiTechie/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/MansiTechie/DSA_Problems/tree/master/0354-russian-doll-envelopes) |
+| [0455-assign-cookies](https://github.com/MansiTechie/DSA_Problems/tree/master/0455-assign-cookies) |
 | [1402-reducing-dishes](https://github.com/MansiTechie/DSA_Problems/tree/master/1402-reducing-dishes) |
 ## Heap (Priority Queue)
 |  |
@@ -235,6 +238,7 @@
 | [0283-move-zeroes](https://github.com/MansiTechie/DSA_Problems/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/MansiTechie/DSA_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/MansiTechie/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/MansiTechie/DSA_Problems/tree/master/0455-assign-cookies) |
 ## Queue
 |  |
 | ------- |
@@ -359,4 +363,8 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/MansiTechie/DSA_Problems/tree/master/0383-ransom-note) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/MansiTechie/DSA_Problems/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
