@@ -29,6 +29,7 @@
 | [0354-russian-doll-envelopes](https://github.com/MansiTechie/DSA_Problems/tree/master/0354-russian-doll-envelopes) |
 | [0455-assign-cookies](https://github.com/MansiTechie/DSA_Problems/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/MansiTechie/DSA_Problems/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/MansiTechie/DSA_Problems/tree/master/0561-array-partition) |
 | [0739-daily-temperatures](https://github.com/MansiTechie/DSA_Problems/tree/master/0739-daily-temperatures) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/MansiTechie/DSA_Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/MansiTechie/DSA_Problems/tree/master/0875-koko-eating-bananas) |
@@ -123,6 +124,7 @@
 | [0402-remove-k-digits](https://github.com/MansiTechie/DSA_Problems/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/MansiTechie/DSA_Problems/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/MansiTechie/DSA_Problems/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/MansiTechie/DSA_Problems/tree/master/0561-array-partition) |
 | [1402-reducing-dishes](https://github.com/MansiTechie/DSA_Problems/tree/master/1402-reducing-dishes) |
 ## Backtracking
 |  |
@@ -204,6 +206,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/MansiTechie/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/MansiTechie/DSA_Problems/tree/master/0354-russian-doll-envelopes) |
 | [0455-assign-cookies](https://github.com/MansiTechie/DSA_Problems/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/MansiTechie/DSA_Problems/tree/master/0561-array-partition) |
 | [1402-reducing-dishes](https://github.com/MansiTechie/DSA_Problems/tree/master/1402-reducing-dishes) |
 ## Heap (Priority Queue)
 |  |
@@ -377,4 +380,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/MansiTechie/DSA_Problems/tree/master/0509-fibonacci-number) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/MansiTechie/DSA_Problems/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
