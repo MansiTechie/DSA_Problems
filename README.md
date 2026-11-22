@@ -30,6 +30,7 @@
 | [0455-assign-cookies](https://github.com/MansiTechie/DSA_Problems/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/MansiTechie/DSA_Problems/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/MansiTechie/DSA_Problems/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/MansiTechie/DSA_Problems/tree/master/0605-can-place-flowers) |
 | [0739-daily-temperatures](https://github.com/MansiTechie/DSA_Problems/tree/master/0739-daily-temperatures) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/MansiTechie/DSA_Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/MansiTechie/DSA_Problems/tree/master/0875-koko-eating-bananas) |
@@ -125,6 +126,7 @@
 | [0409-longest-palindrome](https://github.com/MansiTechie/DSA_Problems/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/MansiTechie/DSA_Problems/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/MansiTechie/DSA_Problems/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/MansiTechie/DSA_Problems/tree/master/0605-can-place-flowers) |
 | [1402-reducing-dishes](https://github.com/MansiTechie/DSA_Problems/tree/master/1402-reducing-dishes) |
 ## Backtracking
 |  |
