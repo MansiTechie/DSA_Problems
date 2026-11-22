@@ -32,6 +32,7 @@
 | [0561-array-partition](https://github.com/MansiTechie/DSA_Problems/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/MansiTechie/DSA_Problems/tree/master/0605-can-place-flowers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/MansiTechie/DSA_Problems/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0682-baseball-game](https://github.com/MansiTechie/DSA_Problems/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/MansiTechie/DSA_Problems/tree/master/0739-daily-temperatures) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/MansiTechie/DSA_Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/MansiTechie/DSA_Problems/tree/master/0875-koko-eating-bananas) |
@@ -65,6 +66,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/MansiTechie/DSA_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/MansiTechie/DSA_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0402-remove-k-digits](https://github.com/MansiTechie/DSA_Problems/tree/master/0402-remove-k-digits) |
+| [0682-baseball-game](https://github.com/MansiTechie/DSA_Problems/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/MansiTechie/DSA_Problems/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -344,6 +346,7 @@
 | [0412-fizz-buzz](https://github.com/MansiTechie/DSA_Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/MansiTechie/DSA_Problems/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/MansiTechie/DSA_Problems/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/MansiTechie/DSA_Problems/tree/master/0682-baseball-game) |
 ## Number Theory
 |  |
 | ------- |
