@@ -36,6 +36,7 @@
 | [0724-find-pivot-index](https://github.com/MansiTechie/DSA_Problems/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/MansiTechie/DSA_Problems/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/MansiTechie/DSA_Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/MansiTechie/DSA_Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/MansiTechie/DSA_Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/MansiTechie/DSA_Problems/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/MansiTechie/DSA_Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -217,6 +218,7 @@
 | [0354-russian-doll-envelopes](https://github.com/MansiTechie/DSA_Problems/tree/master/0354-russian-doll-envelopes) |
 | [0455-assign-cookies](https://github.com/MansiTechie/DSA_Problems/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/MansiTechie/DSA_Problems/tree/master/0561-array-partition) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/MansiTechie/DSA_Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1402-reducing-dishes](https://github.com/MansiTechie/DSA_Problems/tree/master/1402-reducing-dishes) |
 ## Heap (Priority Queue)
 |  |
