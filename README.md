@@ -33,6 +33,7 @@
 | [0605-can-place-flowers](https://github.com/MansiTechie/DSA_Problems/tree/master/0605-can-place-flowers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/MansiTechie/DSA_Problems/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/MansiTechie/DSA_Problems/tree/master/0682-baseball-game) |
+| [0724-find-pivot-index](https://github.com/MansiTechie/DSA_Problems/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/MansiTechie/DSA_Problems/tree/master/0739-daily-temperatures) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/MansiTechie/DSA_Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/MansiTechie/DSA_Problems/tree/master/0875-koko-eating-bananas) |
@@ -376,6 +377,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/MansiTechie/DSA_Problems/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/MansiTechie/DSA_Problems/tree/master/0724-find-pivot-index) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/MansiTechie/DSA_Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Counting
 |  |
