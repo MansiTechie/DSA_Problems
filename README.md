@@ -35,6 +35,7 @@
 | [0682-baseball-game](https://github.com/MansiTechie/DSA_Problems/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/MansiTechie/DSA_Problems/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/MansiTechie/DSA_Problems/tree/master/0739-daily-temperatures) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/MansiTechie/DSA_Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/MansiTechie/DSA_Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/MansiTechie/DSA_Problems/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/MansiTechie/DSA_Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -51,6 +52,7 @@
 | [0367-valid-perfect-square](https://github.com/MansiTechie/DSA_Problems/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/MansiTechie/DSA_Problems/tree/master/0441-arranging-coins) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/MansiTechie/DSA_Problems/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/MansiTechie/DSA_Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/MansiTechie/DSA_Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/MansiTechie/DSA_Problems/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/MansiTechie/DSA_Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
