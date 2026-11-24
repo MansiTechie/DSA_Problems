@@ -59,6 +59,7 @@
 | [0875-koko-eating-bananas](https://github.com/MansiTechie/DSA_Problems/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/MansiTechie/DSA_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/MansiTechie/DSA_Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1208-get-equal-substrings-within-budget](https://github.com/MansiTechie/DSA_Problems/tree/master/1208-get-equal-substrings-within-budget) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -122,6 +123,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/MansiTechie/DSA_Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/MansiTechie/DSA_Problems/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/MansiTechie/DSA_Problems/tree/master/0709-to-lower-case) |
+| [1208-get-equal-substrings-within-budget](https://github.com/MansiTechie/DSA_Problems/tree/master/1208-get-equal-substrings-within-budget) |
 ## Sliding Window
 |  |
 | ------- |
@@ -130,6 +132,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/MansiTechie/DSA_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/MansiTechie/DSA_Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/MansiTechie/DSA_Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/MansiTechie/DSA_Problems/tree/master/1208-get-equal-substrings-within-budget) |
 ## Greedy
 |  |
 | ------- |
@@ -387,6 +390,7 @@
 | [0724-find-pivot-index](https://github.com/MansiTechie/DSA_Problems/tree/master/0724-find-pivot-index) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/MansiTechie/DSA_Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/MansiTechie/DSA_Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/MansiTechie/DSA_Problems/tree/master/1208-get-equal-substrings-within-budget) |
 ## Counting
 |  |
 | ------- |
