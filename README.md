@@ -42,6 +42,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/MansiTechie/DSA_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/MansiTechie/DSA_Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1402-reducing-dishes](https://github.com/MansiTechie/DSA_Problems/tree/master/1402-reducing-dishes) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MansiTechie/DSA_Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -135,6 +136,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/MansiTechie/DSA_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/MansiTechie/DSA_Problems/tree/master/1208-get-equal-substrings-within-budget) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MansiTechie/DSA_Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MansiTechie/DSA_Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Greedy
 |  |
 | ------- |
@@ -322,6 +324,7 @@
 | [0354-russian-doll-envelopes](https://github.com/MansiTechie/DSA_Problems/tree/master/0354-russian-doll-envelopes) |
 | [0509-fibonacci-number](https://github.com/MansiTechie/DSA_Problems/tree/master/0509-fibonacci-number) |
 | [1402-reducing-dishes](https://github.com/MansiTechie/DSA_Problems/tree/master/1402-reducing-dishes) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MansiTechie/DSA_Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## DP on Trees
 |  |
 | ------- |
