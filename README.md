@@ -42,6 +42,7 @@
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/MansiTechie/DSA_Problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1004-max-consecutive-ones-iii](https://github.com/MansiTechie/DSA_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/MansiTechie/DSA_Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/MansiTechie/DSA_Problems/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1402-reducing-dishes](https://github.com/MansiTechie/DSA_Problems/tree/master/1402-reducing-dishes) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MansiTechie/DSA_Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Binary Search
@@ -62,6 +63,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/MansiTechie/DSA_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/MansiTechie/DSA_Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1208-get-equal-substrings-within-budget](https://github.com/MansiTechie/DSA_Problems/tree/master/1208-get-equal-substrings-within-budget) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/MansiTechie/DSA_Problems/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -233,6 +235,7 @@
 | [0455-assign-cookies](https://github.com/MansiTechie/DSA_Problems/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/MansiTechie/DSA_Problems/tree/master/0561-array-partition) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/MansiTechie/DSA_Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/MansiTechie/DSA_Problems/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1402-reducing-dishes](https://github.com/MansiTechie/DSA_Problems/tree/master/1402-reducing-dishes) |
 ## Heap (Priority Queue)
 |  |
@@ -329,6 +332,7 @@
 | [0509-fibonacci-number](https://github.com/MansiTechie/DSA_Problems/tree/master/0509-fibonacci-number) |
 | [0818-race-car](https://github.com/MansiTechie/DSA_Problems/tree/master/0818-race-car) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/MansiTechie/DSA_Problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/MansiTechie/DSA_Problems/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1402-reducing-dishes](https://github.com/MansiTechie/DSA_Problems/tree/master/1402-reducing-dishes) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MansiTechie/DSA_Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## DP on Trees
