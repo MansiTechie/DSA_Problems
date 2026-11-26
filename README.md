@@ -325,6 +325,7 @@
 | [0338-counting-bits](https://github.com/MansiTechie/DSA_Problems/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/MansiTechie/DSA_Problems/tree/master/0354-russian-doll-envelopes) |
 | [0509-fibonacci-number](https://github.com/MansiTechie/DSA_Problems/tree/master/0509-fibonacci-number) |
+| [0818-race-car](https://github.com/MansiTechie/DSA_Problems/tree/master/0818-race-car) |
 | [1402-reducing-dishes](https://github.com/MansiTechie/DSA_Problems/tree/master/1402-reducing-dishes) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MansiTechie/DSA_Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## DP on Trees
@@ -414,4 +415,12 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/MansiTechie/DSA_Problems/tree/master/0561-array-partition) |
+## Heuristic Search
+|  |
+| ------- |
+| [0818-race-car](https://github.com/MansiTechie/DSA_Problems/tree/master/0818-race-car) |
+## A* Search
+|  |
+| ------- |
+| [0818-race-car](https://github.com/MansiTechie/DSA_Problems/tree/master/0818-race-car) |
 <!---LeetCode Topics End-->
