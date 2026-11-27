@@ -45,6 +45,7 @@
 | [1235-maximum-profit-in-job-scheduling](https://github.com/MansiTechie/DSA_Problems/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1402-reducing-dishes](https://github.com/MansiTechie/DSA_Problems/tree/master/1402-reducing-dishes) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MansiTechie/DSA_Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/MansiTechie/DSA_Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/MansiTechie/DSA_Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1208-get-equal-substrings-within-budget](https://github.com/MansiTechie/DSA_Problems/tree/master/1208-get-equal-substrings-within-budget) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/MansiTechie/DSA_Problems/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/MansiTechie/DSA_Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -143,6 +145,7 @@
 | [1208-get-equal-substrings-within-budget](https://github.com/MansiTechie/DSA_Problems/tree/master/1208-get-equal-substrings-within-budget) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MansiTechie/DSA_Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MansiTechie/DSA_Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/MansiTechie/DSA_Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
 | ------- |
@@ -153,6 +156,7 @@
 | [0561-array-partition](https://github.com/MansiTechie/DSA_Problems/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/MansiTechie/DSA_Problems/tree/master/0605-can-place-flowers) |
 | [1402-reducing-dishes](https://github.com/MansiTechie/DSA_Problems/tree/master/1402-reducing-dishes) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/MansiTechie/DSA_Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Backtracking
 |  |
 | ------- |
@@ -237,6 +241,7 @@
 | [0747-largest-number-at-least-twice-of-others](https://github.com/MansiTechie/DSA_Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/MansiTechie/DSA_Problems/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1402-reducing-dishes](https://github.com/MansiTechie/DSA_Problems/tree/master/1402-reducing-dishes) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/MansiTechie/DSA_Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -406,6 +411,7 @@
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/MansiTechie/DSA_Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/MansiTechie/DSA_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/MansiTechie/DSA_Problems/tree/master/1208-get-equal-substrings-within-budget) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/MansiTechie/DSA_Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Counting
 |  |
 | ------- |
